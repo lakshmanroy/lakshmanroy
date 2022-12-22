@@ -2,6 +2,7 @@
 <h3 align="center">A passionate java developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshmanroy&label=Profile%20views&color=0e75b6&style=flat" alt="lakshmanroy" /> </p>
+<p align="right"><img src="https://user-images.githubusercontent.com/121234657/209187709-c1defc0b-5f9e-434f-8df3-15e4b5d9d2da.gif"/></p>
 
 - 🌱 I’m currently learning **Android, Java, React Native,**
 
