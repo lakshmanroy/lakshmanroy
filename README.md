@@ -11,7 +11,24 @@
 
 
 
+<br>
+<p align = "center">   
+  <a href = "https://www.linkedin.com/in/lakshman-roy-89805a251/">
+    <img src="https://user-images.githubusercontent.com/61582763/195151461-61e11fc9-6bbc-4ef5-939a-a75126302a94.png" alt = "LinkedIn Icon">
+  </a>
 
+  <a href = "https://www.youtube.com/@thelkrdvlog">
+    <img src="https://user-images.githubusercontent.com/61582763/195150275-6c3d5420-cf2f-4bb9-8a19-7a323f8d0c40.png" alt = "YouTube Icon">
+  </a> 
+  
+  <a href = "https://lakshmanroy.github.io/">
+    <img src="https://user-images.githubusercontent.com/61582763/195259844-5fc8775f-2f4a-40cd-ba25-9ad39a4faaa4.png" alt = "Medium Icon" width=64px>
+  </a>
+</p>
+
+<img src = "https://user-images.githubusercontent.com/61582763/134278937-ed33e623-b833-4565-945d-29fa43ea0b7c.gif" align = "right" alt="my_octocat" width=475px>
+
+<br>
 
 
 
