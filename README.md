@@ -26,8 +26,6 @@
   </a>
 </p>
 
-<img src = "https://user-images.githubusercontent.com/61582763/134278937-ed33e623-b833-4565-945d-29fa43ea0b7c.gif" align = "right" alt="my_octocat" width=475px>
-
 <br>
 
 
