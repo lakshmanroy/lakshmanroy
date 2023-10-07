@@ -24,6 +24,9 @@
   <a href = "https://lakshmanroy.github.io/">
     <img src="https://user-images.githubusercontent.com/61582763/195259844-5fc8775f-2f4a-40cd-ba25-9ad39a4faaa4.png" alt = "Medium Icon" width=64px>
   </a>
+   <a href = "https://twitter.com/LakashmanK19317">
+    <img src="https://user-images.githubusercontent.com/61582763/195151346-677c8197-2950-4b50-a0cd-af7d84c812a9.png" alt = "Twitter Icon">
+  </a>
 </p>
 
 <br>
