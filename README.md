@@ -73,8 +73,6 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-[![](https://play.google.com/console/u/0/developers/5539056037015376756/app-list?pli=1)](https://visitcount.itsvg.in)
-
  
 <h3 align="left">Know More About me:</h3>
 <p><a href="https://lakshmanroy.github.io/"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="LakshmanRoy" /></a></p><br><br>
