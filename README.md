@@ -70,7 +70,7 @@
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lakshman Roy&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
 </a>
 <a href="https://github.com/lakshmanroy/github-readme-activity-graph#gh-dark-mode-only">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lakshman Roy&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lakshman kumar&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
 </a>
 </p>
 
@@ -86,6 +86,8 @@
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+[![](https://visitcount.itsvg.in/api?id=Lakshmankumar&label=10236&color=11&icon=5&pretty=true)](https://visitcount.itsvg.in)
  
 <h3 align="left">Know More About me:</h3>
 <p><a href="https://lakshmanroy.github.io/"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="LakshmanRoy" /></a></p><br><br>
