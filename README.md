@@ -52,14 +52,14 @@
 # 📈 Github Stats:
 
 <div style="text-align: center;">
-  <div style="flex: 1;"></div> <!-- Lakshman kumar -->
-  <img height="135px" src="https://github-readme-stats.vercel.app/api?username=Lakshmankumar&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshmankumar&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+  <div style="flex: 1;"></div> <!-- Lakshman roy -->
+  <img height="135px" src="https://github-readme-stats.vercel.app/api?username=Lakshmanroy&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshmanroy&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
   <div style="flex: 1;"></div> <!-- Lakshman kumar -->
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Lakshmankumar&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Lakshmanroy&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=https://twitter.com/Lakshman_kumar)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
