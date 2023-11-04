@@ -1,7 +1,7 @@
 <h3 align="center">  <img src="https://readme-typing-svg.herokuapp.com?font=roboto&color=ffffff&size=25&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile!  Thank you"> </h3>
 
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://lakshmanroy.github.io/)
-<h1 align="center">👋 Hii I'm Lakshman Roy Also known as The LKRD</h1>
+<h1 align="center">👋 Hii I'm Lakshman kumar Also known as The LKRD</h1>
 <h2 align="center">A passionate Android App Developer & Android Developer from India</h2>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -13,7 +13,7 @@
 
 <br>
 <p align = "center">   
-  <a href = "https://www.linkedin.com/in/lakshman-roy-89805a251/">
+  <a href = "https://www.linkedin.com/in/lakshman-kumar-89805a251/">
     <img src="https://user-images.githubusercontent.com/61582763/195151461-61e11fc9-6bbc-4ef5-939a-a75126302a94.png" alt = "LinkedIn Icon">
   </a>
 
@@ -52,17 +52,17 @@
 # 📈 Github Stats:
 
 <div style="text-align: center;">
-  <div style="flex: 1;"></div> <!-- Lakshman Roy -->
-  <img height="135px" src="https://github-readme-stats.vercel.app/api?username=LakshmanRoy&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakshmanRoy&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-  <div style="flex: 1;"></div> <!-- Lakshman Roy -->
+  <div style="flex: 1;"></div> <!-- Lakshman kumar -->
+  <img height="135px" src="https://github-readme-stats.vercel.app/api?username=Lakshmankumar&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshmankumar&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+  <div style="flex: 1;"></div> <!-- Lakshman kumar -->
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=LakshmanRoy&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Lakshmankumar&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/Lakshman_Roy)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=https://twitter.com/Lakshman_kumar)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 <h2 align='center'><i><a href="https://github.com/lakshmanroy/github-readme-activity-graph">Activity Graph 📈</i></h2>
 <p align="center">
@@ -75,13 +75,13 @@
 </p>
 
 
-### ✍️ Random Lakshman Roy Android developer Quotes
+### ✍️ Random Lakshman kumar Android developer Quotes
 ![](https://play.google.com/console/u/0/developers/5539056037015376756/app-list?pli=1)
 
 ### 🔝 Top Contributed Repo
 ![](https://github.com/The-LKRD-Project)
 
-### 😂 Random Lakshman Roy Android developer Meme
+### 😂 Random Lakshman kumar Android developer Meme
 <img src="https://play.google.com/console/u/0/developers/5539056037015376756/app-list?pli=1/" width="512px"/>
 
 
