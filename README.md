@@ -61,7 +61,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Lakshmanroy&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
+## 🐦 Latest Twee
 [![](https://gtce.itsvg.in/api?username=https://twitter.com/Lakshman_kumar)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 <p align="center">
