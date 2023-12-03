@@ -84,8 +84,6 @@
 <img src="https://play.google.com/console/u/0/developers/5539056037015376756/app-list?pli=1/" width="512px"/>
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 [![](https://visitcount.itsvg.in/api?id=Lakshmankumar&label=10236&color=11&icon=5&pretty=true)](https://visitcount.itsvg.in)
  
 <h3 align="left">Know More About me:</h3>
