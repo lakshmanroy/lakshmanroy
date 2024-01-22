@@ -1,4 +1,4 @@
-<h3 align="center">  <img src="https://readme-typing-svg.herokuapp.com?font=roboto&color=ffffff&size=25&center=true&vCenter=true&lines=Welcome+to+my+GitHub "> </h3>
+hii<h3 align="center">  <img src="https://readme-typing-svg.herokuapp.com?font=roboto&color=ffffff&size=25&center=true&vCenter=true&lines=Welcome+to+my+GitHub "> </h3>
 
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://lakshmanroy.github.io/)
 <h1 align="center">👋 Hii I'm Lakshman kumar Also known as LKRD</h1>
@@ -40,7 +40,7 @@
 🤝 I’m looking for help with developing many Android that can find the user easily.<br>
 🌱 I’m currently learning Android Kotlin java DSA system Design by pw skills ( Physics wallah ).<br>
 💬 Ask me about - java,Kotlin, HTML, CSS, JAVASCRIPT | DBMS | MongoDB | DSA | System Design | PHOTOGRAPHY & EDITER |<br>
-⚡ Fun fact - coding lover , singing ,Blogger.youTube
+⚡ Fun fact - coding lover , singing ,Blogger.youTube.
 
 
 ## 🌐 Socials:
