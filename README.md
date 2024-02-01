@@ -33,7 +33,6 @@
 
 
 
-
 # 💫 About Me:
 🔭 I’m currently working on Android development & My own App. <br>
 👯 I’m looking to collaborate on App development as well as Our app.<br>
