@@ -75,30 +75,20 @@
 
 ## 🛡️ LeetCode Badges 
 <p align="">
-  <a href="https://https://vinaykumarmahato.github.io/leetcode//" target="blank">
+  <a href="https://https://Lakshmankumar.github.io/leetcode//" target="blank">
     <img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/others/DS_II.png"/>
   </a>
-  <a href="https://https://vinaykumarmahato.github.io/leetcode//" target="blank">
+  <a href="https://https://Lakshmankumar.github.io/leetcode//" target="blank">
     <img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/others/Top_100_Liked-1.png" alt="hacktoberfest-level2"/>
   </a>
-  <a href="https://https://vinaykumarmahato.github.io/leetcode//" target="blank">
+  <a href="https://https://Lakshmankumar.github.io/leetcode//" target="blank">
     <img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/others/%E7%BC%96%E7%A8%8B%E8%83%BD%E5%8A%9B_%E5%9F%BA%E7%A1%80.png" alt="hacktoberfest-level3"/>
   </a>
-  <a href="https://https://vinaykumarmahato.github.io/leetcode//" target="blank">
+  <a href="https://https://Lakshmankumar.github.io/leetcode//" target="blank">
     <img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/others/LeetCode_75.png"/>
   </a>
-  <a href="https://https://vinaykumarmahato.github.io/leetcode//" target="blank">
-    <img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/others/SQLI.png" alt="hacktoberfest-docker"/>
-  </a>
-  <a href="https://https://vinaykumarmahato.github.io/leetcode//" target="blank">
-    <img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/others/algorithm_II.png"/>
-  </a>
-  <a href="https://https://vinaykumarmahato.github.io/leetcode//" target="blank">
+  <a href="https://https://Lakshmankumar.github.io/leetcode//" target="blank">
   <img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.png" alt="hacktoberfest-docker"/>
-</a>
- <img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/marketing/lg100.png" alt="hacktoberfest-docker"/>
-    <img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/marketing/lg50.png" alt="hacktoberfest-docker"/>
-
 </a>
 </p>
 
