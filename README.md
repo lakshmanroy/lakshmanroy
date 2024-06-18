@@ -77,6 +77,7 @@
 <p align="">
   <img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/marketing/lg100.png" alt="hacktoberfest-docker"/>
     <img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/marketing/lg50.png" alt="hacktoberfest-docker"/>
+     <img width="120px" height="120px" src="[https://assets.leetcode.com/static_assets/marketing/lg50.png" alt="hacktoberfest-docker](https://assets.leetcode.com/static_assets/public/images/badges/dcc-2024-5.png)"/>
 </p>
 
 ### ✍️ Random Lakshman kumar Android developer Quotes
