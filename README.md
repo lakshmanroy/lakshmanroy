@@ -75,12 +75,6 @@
 
 ## 🛡️ LeetCode Badges 
 <p align="">
-  <a href="https://Lakshmankumar.github.io/leetcode/" target="blank">
-    <img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.png" alt="CEH"/>
-  </a>
-  <a href="https://https://Lakshmankumar.github.io/leetcode//" target="blank">
-    <img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/others/algorithm_II.png"/>
-  </a>
   <a href="https://https://Lakshmankumar.github.io/leetcode//" target="blank">
   <img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.png" alt="hacktoberfest-docker"/>
 
