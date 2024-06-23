@@ -39,7 +39,7 @@
 🤝 I’m looking for help with developing many Android that can find the user easily.<br>
 🌱 I’m currently learning Android Kotlin java DSA system Design by pw skills ( Physics wallah )<br>
 💬 Ask me about - java,Kotlin, HTML, CSS, JAVASCRIPT | DBMS | MongoDB | DSA | System Design | PHOTOGRAPHY & EDITER |<br>
-⚡ Fun fact - coding lover , singing ,Blogger,youTube,Gym,consistency
+⚡ Fun fact - coding lover , singing ,Blogger,youTube,Gym,consistency,
 
 
 
