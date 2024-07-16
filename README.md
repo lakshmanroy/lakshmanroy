@@ -34,7 +34,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Android development & My own App. <br>
+🔭 I’m currently working on Android development & My own App.<br>
 👯 I’m looking to collaborate on App development as well as Our app.<br>
 🤝 I’m looking for help with developing many Android that can find the user easily.<br>
 🌱 I’m currently learning Android Kotlin java DSA system Design by pw skills ( Physics wallah )<br>
