@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <a class="libutton" href="https://www.linkedin.com/in/lakshman-kumar-89805a251" target="_blank">⚡Follow our pages 🌱🌱🌱</a>
-<a class="libutton" href="https://www.youtube.com/channel/UCxYB3L0k7ZMo4jTHpvk3qLA" target="_blank">⚡Subscribe on YouTube🌱🌱
+<a class="libutton" href="https://www.youtube.com/channel/UCxYB3L0k7ZMo4jTHpvk3qLA" target="_blank">⚡Subscribe on YouTube🌱
 </a>
 
 
