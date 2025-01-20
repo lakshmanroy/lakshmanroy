@@ -35,7 +35,7 @@
 
 # 💫 About Me:
 🔭 I’m currently working on Bank Management System Project & My own Project.<br>
-👯 I’m looking to collaborate on friends as well as Our Project.<br>
+👯 I’m looking to collaborate on friends as well as Our Project<br>
 🤝 I’m looking for help with developing many Java developer that can find the user easily.<br>
 🌱 I’m currently learning DSA java DSA Apptitude system Design by pw skills ( Physics wallah )<br>
 💬 Ask me about - java,Kotlin, HTML, CSS, JAVASCRIPT | DBMS | MongoDB |MySQL | DSA | System Design | PHOTOGRAPHY & EDITER |<br>
